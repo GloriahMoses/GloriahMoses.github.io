@@ -73,6 +73,7 @@ body {
     height: 39px;
     display: block;
     margin-bottom: 2em;
+    font-size: 36px;
 }
 
 .lower{
@@ -109,7 +110,7 @@ body {
 }
 #left{
     float: left;
-    margin-right: 40em;
+    margin-right: 0em;
 }
 #left a:link {
     color: black;
@@ -129,7 +130,6 @@ body {
 }
 #right{
     float: left;
-    width: 30em;
 }
 #right a:link {
     color: black;
@@ -146,4 +146,8 @@ body {
     color: black;
     text-decoration: underline;
     text-align: left;
+}
+#microphone{
+    margin-top: -1.3em;
+    margin-left: 10em;
 }
